@@ -9,4 +9,4 @@
 ###### cd target/distribution
 ###### ls -l
 ###### sudo ./run.sh 
-###### This project was building using [PI4J](https://pi4j.com/getting-started/minimal-example-application/)
+###### This project was built using [PI4J](https://pi4j.com/getting-started/minimal-example-application/)
